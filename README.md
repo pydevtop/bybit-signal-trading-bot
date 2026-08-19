@@ -68,10 +68,9 @@ https://py-dev.top/application-software/bybit-signal-trading-bot
 ## Contacts
 Telegram: @morgan_sql<br>
 
-####  Similar developments:
-******************************************************************************
-
 ### Related Binance P2P Automation Tool
+
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
 
 **Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
 
@@ -89,4 +88,4 @@ The author (PyDev) does not consent to being listed as a contributor in unauthor
 If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
 
 Author: PyDev
-# bybit-signal-trading-bot
+
